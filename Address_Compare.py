@@ -6,11 +6,6 @@ wrong_address = [
 ans =  '555 Culton St, Unit 510, San Francisco'.split(', ')
 print(ans)
 
-def Convert(string):
-    list1=[]
-    list1[:0]=string
-    return list1
-
 for address in wrong_address:
     address = address.split(', ')
     print(address)
