@@ -2,8 +2,8 @@ Address_Compare.py:
 初始的想法，是將地址分割並比對，print比對正確的個數。
 ![image](https://user-images.githubusercontent.com/87238365/170805802-732d73d4-6b32-4864-9c0a-643c4bb8e5b1.png)
 
+Address_Compare_Modify.py:
 經修正後，透過每個字元比對，會發現選項2正確數更高。
-
 ![image](https://user-images.githubusercontent.com/87238365/170808143-a681828d-63e1-4e61-9db5-8d12d5f65b09.png)
 
 
